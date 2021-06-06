@@ -1,2 +1,2 @@
 # FinnetTrade-frontend
-Trade Platfrom
+FinnetTrade swap Platfrom
