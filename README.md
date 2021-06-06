@@ -1,2 +1,2 @@
-# FinnetTrade-frontend-AMM-main
+# FinnetTrade-frontend
 Trade Platfrom
